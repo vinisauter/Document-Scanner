@@ -1,0 +1,26 @@
+<resources>
+
+    <string name="permission_write_external_rationale">Permiçao de acesso para selecionar imagens</string>
+
+    <string name="ok">OK</string>
+    <string name="done">FEITO</string>
+    <string name="camera">CAMERA</string>
+    <string name="image_directory">Camera</string>
+
+    <string name="title_folder">Pasta</string>
+    <string name="title_select_image">Toque para selecionar imagens</string>
+    <string name="title_permission_denied">Permissão negada</string>
+
+    <string name="selected">%d</string>
+    <string name="selected_with_limit">%1$d/%2$d itens selecionados</string>
+
+    <string name="error_create_image_file">Falha ao criar arquivo de imagem</string>
+    <string name="error_no_camera">Nenhuma câmera foi encontrada</string>
+    <string name="error_null_cursor">Oops, algo deu errado!</string>
+
+    <string name="msg_empty_images">Não foram encontradas imagens</string>
+    <string name="msg_no_write_external_permission">Por favor, conceda a permissão de armazenamento para selecionar imagens</string>
+    <string name="msg_no_camera_permission">Por favor, conceda a permissão câmera para capturar a imagem</string>
+    <string name="msg_limit_images">Limite de selecção de imagem</string>
+
+</resources>
